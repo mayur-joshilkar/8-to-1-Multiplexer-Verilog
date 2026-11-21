@@ -10,9 +10,7 @@ This project implements an **8-to-1 Multiplexer (MUX)** using Verilog HDL. The d
 ## 📂 Project Files
 
 - `mux8to1.v` – Main 8-to-1 Multiplexer design
-- `mux8to1_gate.v` – Gate-level implementation
 - `tb_mux8to1.v` – Testbench for functional verification
-- `tb_mux8to1_gate.v` – Testbench for gate-level verification
 
 ## ⚙️ Working
 The multiplexer has:
